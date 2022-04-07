@@ -103,17 +103,23 @@
                 <StackPanel Orientation="Horizontal">
                     <Label Content="First Name"/>
                     <TextBox Margin=" 100 5 5 5 "
-                             Width="200"/>
+                             Width="200"
+                             Text="Jhon"
+                             Foreground="White"/>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal">
                     <Label Content="Last Name"/>
                     <TextBox Margin=" 100 5 5 5 "
-                             Width="200"/>
+                             Width="200"
+                             Text="Smith"
+                             Foreground="White"/>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal">
                     <Label Content="Company Name"/>
                     <TextBox Margin=" 70 5 5 5 "
-                             Width="200"/>
+                             Width="200"
+                             Text="EPS/CODE"
+                             Foreground="White"/>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal">
                     <Label Content="Division"/>
@@ -127,7 +133,9 @@
                 <StackPanel Orientation="Horizontal">
                     <Label Content="Phone"/>
                     <TextBox Margin=" 123 5 5 5 "
-                             Width="200"/>
+                             Width="200"
+                             Text="832-717-445"
+                             Foreground="White"/>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal">
                     <Label Content="Fax"/>
